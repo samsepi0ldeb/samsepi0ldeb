@@ -13,4 +13,4 @@
 
 ###TryHackMe Profile
 
-![tryhackme stats](https://raw.githubusercontent.com/samsepi0ldeb/samsepi0ldeb/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/samsepi0ldeb/samsepi0ldeb)
