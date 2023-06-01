@@ -13,4 +13,7 @@
 
 ###TryHackMe Profile
 
-![tryhackme stats](https://raw.githubusercontent.com/samsepi0ldeb/samsepi0ldeb)
+<details>
+<summary>:bulb: Most Used Language </summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsepi0ldeb&hide_progress=false">
+</details>
