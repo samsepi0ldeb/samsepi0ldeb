@@ -1,7 +1,7 @@
-### `Hi. I'm Aki. (hi/him)`
+### `Hi. I'm Aki. (he/him)`
 
 
-[![samsepi0ldeb Statics](https://github-readme-stats.vercel.app/api?username=samsepi0ldeb&show_icons=true&theme=tokyonight)](https://samsepi0ldeb.dev)
+[![samsepi0ldeb Statics](https://github-readme-stats.vercel.app/api?username=samsepi0ldeb&show_icons=true&theme=aura)](https://samsepi0ldeb.dev)
 
 [![@samsepi0ldeb's Holopin board](https://holopin.me/samsepi0ldeb)](https://holopin.io/@samsepi0ldeb)
 
