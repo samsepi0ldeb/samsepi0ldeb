@@ -10,3 +10,7 @@
 </p>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=samsepi0ldeb.samsepi0ldeb)](#)
+
+###TryHackMe Profile
+
+![tryhackme stats](https://raw.githubusercontent.com/samsepi0ldeb/samsepi0ldeb/master/assets/thm_propic.png)
