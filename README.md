@@ -1,6 +1,6 @@
 ### `Hi. I'm Aki. (he/him)` 🍇
 
-### `Cyber Security | Assembly Developer` 💻
+### `Cyber Security | PHP Developer` 💻
 
 [![samsepi0ldeb Statics](https://github-readme-stats.vercel.app/api?username=samsepi0ldeb&show_icons=true&theme=aura)](https://samsepi0ldeb.dev)
 
